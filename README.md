@@ -30,6 +30,7 @@ IDE: Android Studio
 Project Structure
 Plaintext
 .
+.
 ├── app/
 │   └── src/
 │       └── main/
@@ -45,8 +46,6 @@ Plaintext
 ├── build.gradle.kts
 ├── settings.gradle.kts
 └── README.md
-Requirements
-Android Studio
 
 Android SDK 35
 
